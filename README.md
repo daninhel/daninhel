@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on building my portfolio.
 - 🌱 I'm currently in college, studying systems analysis and development.
-- 🎯 My goal is to become a mobile dev
+- 🎯 My goal is to become a mobile dev.
 - 📫 How to reach me: daniel.carachesque05@gmail.com
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
