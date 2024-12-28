@@ -5,7 +5,8 @@
 - 🎯 My goal is to become a mobile dev.
 - 📫 How to reach me: daniel.carachesque05@gmail.com
 <!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ... 
+&include_all_commits=true-->
 <div>
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=daninhel&theme=dark&count_private=true">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=daninhel&layout=compact&theme=dark">
